@@ -1,3 +1,3 @@
-# Manifold-aligned-Attack
+Manifold-Aligned Adversarial Perturbation for Anti-Customization under Diffusion-based Purification
 
-Manifold-aligned Adversarial Perturbations against Diffusion-based Purification
+Official implementation of Manifold-Aligned Adversarial Perturbation for Anti-Customization under Diffusion-based Purification
